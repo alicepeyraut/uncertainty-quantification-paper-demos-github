@@ -1,0 +1,8 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+chapters:
+- file: demos/Figures6-to-8-model-errors
+- file: demos/Figures4-to-11-measurement-errors

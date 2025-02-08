@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints
+_build
+__pycache__
+generate_images
+plot_disp_error_vs_regul_strength
+plot_disp_error_vs_mesh_size
+run_warp
+.gitlab-ci.yml
