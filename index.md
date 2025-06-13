@@ -1,4 +1,4 @@
-# Welcome to [Peyraut and Genet, Uncertainty quantification for personalized biomechanical modeling: application to pulmonary poromechanical digital twins, Submitted]'s demos!
+# Welcome to [Peyraut and Genet (2025), Uncertainty quantification for personalized biomechanical modeling: application to pulmonary poromechanical digital twins, Journal of Biomechanical Engineering]'s demos!
 
 * The notebooks can be executed online with binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alicepeyraut/uncertainty-quantification-paper-demos-github/main?urlpath=lab/tree/./demos/) (no download required).
 
