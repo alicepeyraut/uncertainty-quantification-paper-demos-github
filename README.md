@@ -2,5 +2,5 @@
 
 Interactive demos can be found at [https://alicepeyraut.github.io/uncertainty-quantification-paper-demos-github](https://alicepeyraut.github.io/uncertainty-quantification-paper-demos-github).
 
-(Main library can be found at [https://github.com/mgenet/dolfin_mech]([https://gitlab.inria.fr/mgenet/dolfin_mech](https://github.com/mgenet/dolfin_mech)).)
+(Main library can be found at [https://github.com/mgenet/dolfin_mech](https://github.com/mgenet/dolfin_mech).)
 
